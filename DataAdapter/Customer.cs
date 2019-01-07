@@ -13,6 +13,7 @@ using System.Windows.Forms;
 
 namespace DataAdapter
 {
+    //bu yorum satırı githuba yapılacak değişimleri gormek icin yazılmıstır.
    
     public partial class Customer : Form
     {
